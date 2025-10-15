@@ -10,3 +10,6 @@ N(x) ser rimelig ut. Normalkraften er størst der banen har sterk krumming (rund
 som stemmer med de stedene helningsvinkelen endres mest i β(x). 
 Dette er forventet fordi normalkraften øker når banen presser mer på gjenstanden i svingene. 
 Minimaene i N(x)sammenfaller med flatere partier av banen, noe som også er fysisk korrekt.
+
+(6)
+Vi ser at den mekaniske energien ikke er bevart når vi bruker de målte tallverdiene, som tyder på at kula ikke "ruller rent uten å gi". Tapet i mekanisk energi tyder på at omgivelsene utfører et arbeid på kula. Dette kan være luftmotstand som vil virke på kula når den ruller, eller at kula glir litt på underlaget, som vil føre til at friksjonen fra banen vil utføre et arbeid. 
