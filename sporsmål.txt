@@ -19,5 +19,12 @@ Nullpunktene ser ut til å stemme hvis man tenker på vendepunkt.
 Likevel så ser plottet veldig brutalt ut, men dette skyldes nok at vi kun har 8 skruefestepunkt slik at splinen må bøye seg kraftig mellom punktene for å sikre kontinuitet i første- og andrederivert.
 dermed kan vi si at Krumningsplottet er som forventet. 
 
+(5)
+-Kuleradien  r = 11 mm, banens minste krumningsradius kan vi finne ved å lese av
+toppunktet av banens krumning. 
+Den er ca. 4.8m^(-1) da blir Rmin 1/4.8 = 0.21m. 
+Kulen har da betydelig mindre radius enn banens minste krummningsradius (0.011m << 0.2 m). 
+Det gjør at antagelsen er godt oppfylt langs hele banen..
+
 (6)
 Vi ser at den mekaniske energien ikke er bevart når vi bruker de målte tallverdiene, som tyder på at kula ikke "ruller rent uten å gi". Tapet i mekanisk energi tyder på at omgivelsene utfører et arbeid på kula. Dette kan være luftmotstand som vil virke på kula når den ruller, eller at kula glir litt på underlaget, som vil føre til at friksjonen fra banen vil utføre et arbeid. 
