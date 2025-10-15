@@ -1,1 +1,5 @@
-
+(1)
+Grafen for f(x) virker rimelig ut fra banens form y(x).
+Vi ser at fortegnet til f(x) endrer seg der banen går fra oppover til nedover helling, altså i nærheten av topp- og bunnpunktene.
+Størrelsen på f(x) følger også variasjonene i normalkraften N(x), slik at friksjonen er størst der normalkraften er størst (i bunnpunktene).
+Dette samsvarer med forventningene basert på fysikken bak bevegelsen langs en bølget bane.
