@@ -6,4 +6,7 @@ Dette samsvarer med forventningene basert på fysikken bak bevegelsen langs en b
 
 
 (2)
-N(x) ser rimelig ut. Normalkraften er størst der banen har sterk krumming (rundt x≈0.6m og x≈1.2m), som stemmer med de stedene helningsvinkelen endres mest i β(x). Dette er forventet fordi normalkraften øker når banen presser mer på gjenstanden i svingene. Minimaene i N(x)sammenfaller med flatere partier av banen, noe som også er fysisk korrekt.
+N(x) ser rimelig ut. Normalkraften er størst der banen har sterk krumming (rundt x≈0.6m og x≈1.2m), 
+som stemmer med de stedene helningsvinkelen endres mest i β(x). 
+Dette er forventet fordi normalkraften øker når banen presser mer på gjenstanden i svingene. 
+Minimaene i N(x)sammenfaller med flatere partier av banen, noe som også er fysisk korrekt.
